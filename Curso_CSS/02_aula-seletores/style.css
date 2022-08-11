@@ -1,0 +1,28 @@
+/* Seletores */
+/* 
+p {
+    color: rgb(109, 26, 167);
+    font-size: 30pt;
+}
+
+
+#p1 {
+    color: darkcyan;
+}*/
+
+.titulo {
+    color: rgb(230, 116, 50);
+    font-size: 20pt;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: rgb(244, 46, 237);
+    font-size: 20pt;
+    font-weight: lighter;
+}

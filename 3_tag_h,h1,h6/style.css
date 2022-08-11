@@ -1,0 +1,20 @@
+h1 {
+    color: red;
+    border: 1px solid rgb(150, 150, 150);
+    background-color: aquamarine;
+}
+
+h2,
+h3 {
+    color: blueviolet;
+    border: 1px solid rgb(150, 150, 150);
+    background-color: aquamarine;
+}
+
+h4,
+h5,
+h6 {
+    color: orange;
+    border: 1px solid rgb(150, 150, 150);
+    background-color: aquamarine;
+}
