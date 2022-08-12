@@ -13,6 +13,7 @@ p {
 .titulo {
     color: rgb(230, 116, 50);
     font-size: 20pt;
+    font-weight: lighter;
 }
 
 p,

@@ -1,0 +1,16 @@
+body {
+    background-color: aqua;
+    background-image: url(phoenix.jpg);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: 200px 0px;
+}
+
+p {
+    font-size: 30px;
+    color: black;
+    background-color: chocolate;
+    background-image: url(brazil-map.png);
+    background-repeat: repeat-x;
+    background-position: 0px 8px;
+}
